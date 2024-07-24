@@ -1,3 +1,5 @@
 hello world
 
 hello world!!
+
+edit a file not to face conflicts
