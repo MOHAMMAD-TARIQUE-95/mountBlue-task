@@ -1,1 +1,3 @@
 data in new-branch
+
+edited data to make it same as master branch file of same name
